@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.EXAMEN_T1_VD.iml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\elard\OneDrive - Universidad Privada del Norte\CURSOS\VIDEOJUEGOS\VIDEOJUEGOS\Unity\EXAMEN_T1_VD\.idea\.idea.EXAMEN_T1_VD\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
